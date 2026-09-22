@@ -19,7 +19,7 @@ I'm actively working on portfolio projects that demonstrate these skills, includ
 
 ### 📚 Learning Journey
 
-I came from a security research background, but I've shifted focus to infrastructure and network design because I believe that's where my interests truly lie. I'm new to this domain and learning by building real projects and pushing them to GitHub.
+I came from a security research background, but I've shifted focus to infrastructure and network. I'm new to this domain and learning by building real projects and pushing them to GitHub.
 
 My approach: Build things, test them, break them, and understand the "why" behind architectural decisions.
 
