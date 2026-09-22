@@ -27,12 +27,6 @@ My approach: Build things, test them, break them, and understand the "why" behin
 
 ---
 
-### 🎯 Next Steps
-
-Building portfolio projects that demonstrate AWS knowledge. Starting college soon while continuing self-directed technical learning.
-
----
-
 ### 💻 Tech Stack & Tools
 
 *The following badges represent the tools and environments I currently use for cloud infrastructure, infrastructure-as-code, and everyday learning.*
